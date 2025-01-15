@@ -7,9 +7,9 @@ Repositório da disciplina de programação web III da IFPE Campus Jaboatão dos
  
  
  * Contruir soluções web. 
- * Utilizar framework Javascript para mapeamento de ORM e construção de API
- * Conhecer tecnologias para desenvolvimento de soluções Front-end com Typescript 
- * Realizar estudo de caso com aplicações de negócios
+ * Utilizar framework Javascript para mapeamento de ORM e construção de API.
+ * Conhecer tecnologias para desenvolvimento de soluções Front-end com Typescript. 
+ * Realizar estudo de caso com aplicações de negócios.
 # Tecnologias
 
  * Typescript
