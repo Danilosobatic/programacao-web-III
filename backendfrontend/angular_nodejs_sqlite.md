@@ -3,11 +3,32 @@
 Este projeto implementa um CRUD utilizando **Node.js** no back-end, **Angular** no front-end, e **SQLite** como banco de dados.
 
 ## Estrutura do Projeto
-
-crud-node-angular-sqlite/ │ ├── backend/ # Diretório para o back-end (Node.js) │ ├── node_modules/ # Dependências do back-end │ ├── server.js # Arquivo principal do servidor Node.js │ ├── database.js # Arquivo para configurar o banco de dados SQLite │ └── package.json # Dependências do back-end │ └── frontend/ # Diretório para o front-end (Angular) ├── node_modules/ # Dependências do front-end ├── src/ │ ├── app/ │ │ ├── app.component.ts # Componente principal do Angular │ │ ├── app.module.ts # Módulo principal do Angular │ │ └── user.service.ts # Serviço para comunicação com o back-end │ └── index.html # Arquivo HTML principal └── angular.json # Configurações do Angular
-
  
-## Passo 1: Criar o Back-End (Node.js e SQLite)
+# Estrutura do Projeto CRUD com Node.js, Angular e SQLite
+
+```
+crud-node-angular-sqlite/
+│
+├── backend/                # Diretório para o back-end (Node.js)
+│   ├── node_modules/    # Dependências do back-end
+│   ├── server.js        # Arquivo principal do servidor Node.js
+│   ├── database.js      # Arquivo para configurar o banco de dados SQLite
+│   └── package.json     # Dependências do back-end
+│
+└── frontend/               # Diretório para o front-end (Angular)
+    ├── node_modules/       # Dependências do front-end
+    ├── src/                # Código-fonte do Angular
+    │   ├── app/           
+    │   │   ├── app.component.ts  # Componente principal do Angular
+    │   │   ├── app.module.ts     # Módulo principal do Angular
+    │   │   └── user.service.ts   # Serviço para comunicação com o back-end
+    │   
+    │   └── index.html             # Arquivo HTML principal
+    
+    └── angular.json          # Configurações do Angular
+```
+ 
+## Passo 1: Criar o Back-End (Node.js e SQLite)  
 
 ### 1.1. Inicializar o Projeto Node.js
 

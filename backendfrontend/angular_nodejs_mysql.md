@@ -4,7 +4,26 @@ Este projeto cria um CRUD simples utilizando **Node.js** no back-end, **Angular*
 
 ## Estrutura do Projeto
 
-crud-node-angular-mysql/ │ ├── backend/ │ ├── node_modules/ # Dependências do back-end │ ├── server.js # Arquivo principal do servidor Node.js │ └── package.json # Dependências do back-end │ └── frontend/ ├── node_modules/ # Dependências do front-end ├── src/ │ ├── app/ │ │ ├── app.component.ts # Componente principal do Angular │ │ ├── app.module.ts # Módulo principal do Angular │ │ └── user.service.ts # Serviço para comunicação com o back-end │ └── index.html # Arquivo HTML principal └── angular.json # Configurações do Angular
+```
+crud-node-angular-mysql/
+│
+├── backend/                # Diretório para o back-end (Node.js)
+│   ├── node_modules/    # Dependências do back-end
+│   ├── server.js        # Arquivo principal do servidor Node.js
+│   └── package.json     # Dependências do back-end
+│
+└── frontend/               # Diretório para o front-end (Angular)
+    ├── node_modules/       # Dependências do front-end
+    ├── src/                # Código-fonte do Angular
+    │   ├── app/           
+    │   │   ├── app.component.ts  # Componente principal do Angular
+    │   │   ├── app.module.ts     # Módulo principal do Angular
+    │   │   └── user.service.ts   # Serviço para comunicação com o back-end
+    │   
+    │   └── index.html             # Arquivo HTML principal
+    
+    └── angular.json          # Configurações do Angular
+```
 
 
 
