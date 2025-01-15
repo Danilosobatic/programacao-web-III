@@ -38,7 +38,7 @@ Repositório da disciplina de programação web III da IFPE Campus Jaboatão dos
  # Material
  
  * Introdução TypeScript  [material](https://github.com/Danilosobatic/programacao-web-III/blob/main/backend/typescript/typescript_introducao.md)
- * CRUDTypeScript com MySQL [material](https://github.com/Danilosobatic/programacao-web-III/blob/main/backend/typescript/crud_typescript_mysql.md) 
+ * CRUD TypeScript com MySQL [material](https://github.com/Danilosobatic/programacao-web-III/blob/main/backend/typescript/crud_typescript_mysql.md) 
  * CRUD TypeScript com SQLite [material](https://github.com/Danilosobatic/programacao-web-III/blob/main/backend/typescript/crud_typescript_sqlite.md) 
  
  
