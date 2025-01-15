@@ -7,9 +7,24 @@ Este projeto implementa um CRUD simples utilizando **Node.js** para o back-end, 
 ** Front-end (Angular)**  – Será responsável pela interface do usuário e pela comunicação com o back-end para realizar as operações CRUD.
 
 ## Estrutura do Projeto
-
-crud-node-angular/ │ ├── backend/ │ └── server.js │ └── frontend/ ├── src/ │ ├── app/ │ │ ├── app.component.ts │ │ ├── app.module.ts │ │ └── user.service.ts │ └── index.html └── angular.json]
-
+ 
+ ```
+crud-node-angular/
+│
+├── backend/                # Diretório para o back-end (Node.js)
+│   └── server.js        # Arquivo principal do servidor Node.js
+│
+└── frontend/               # Diretório para o front-end (Angular)
+    ├── src/                # Código-fonte do Angular
+    │   ├── app/           
+    │   │   ├── app.component.ts  # Componente principal do Angular
+    │   │   ├── app.module.ts     # Módulo principal do Angular
+    │   │   └── user.service.ts   # Serviço para comunicação com o back-end
+    │   
+    │   └── index.html             # Arquivo HTML principal
+    
+    └── angular.json          # Configurações do Angular
+```
 
 
 ## Passo 1: Criar o Back-End (Node.js)
